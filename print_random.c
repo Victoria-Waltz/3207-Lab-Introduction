@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-
+char randchar(); //function prototype
 
 int main()
 {
